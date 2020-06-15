@@ -1,7 +1,7 @@
 Testsomething
 New addition for master only
 New addition after merge
-Something new here only on master
-Another line only on master
-And a third line only on master
+Something new123 here only on master
+Another123 line only on master
+And a123 third line only on master
 
