@@ -1,7 +1,7 @@
 Testsomething
 New addition for master only
 New123 addition after merge
-Some123 addition only o123n branch
-Another123 line only on branch123
-Third123 line only123 on branc123h to be merged to master.
+Some123 addition only456 o123n branch
+Another123 line only456 on branch123
+Third123 line only123 456on branc123h to be merged to master.
 
