@@ -1,4 +1,8 @@
 Testsomething
 New addition for master only
 New addition after merge
+Some addition only on branch
+Another line only on branch
+Third line only on branch to be merged to master.
 
+Blalal
