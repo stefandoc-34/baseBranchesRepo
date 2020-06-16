@@ -1,4 +1,5 @@
 Testsomething
+Test something else
 New addition for master only
 New123 addition after merge
 Some123 addition only456 o123n branch
