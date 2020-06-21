@@ -5,9 +5,9 @@ New123 addition after merge
 Some123 addition only456 o123n branch
 Another123 line only456 on789 branch123
 Third123 line only123 456on789 branc123h to be merged to master.
-branch addition /*some my edited changes*/
-branch addition 2
+branch addition /*some my edited                 changes*/ asdsadasd
+branch addition 2  asdsadasdasda
 Another123 line only456 on789 branch123 1010101010
 Third123 line only123 master addition 0 456on789 branc123h to be merged to master. asdasd
-master addition asdasd
-master addition 2 asdasd a
+master addition asdasd asdasdasdsadsadasdas rrrrr
+master addition 2 asdasd arrrrrr
