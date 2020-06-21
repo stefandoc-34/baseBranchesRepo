@@ -8,6 +8,6 @@ Third123 line only123 456on789 branc123h to be merged to master.
 branch addition /*some my edited                 changes*/ asdsadasd
 branch addition 2  asdsadasdasda
 Another123 line only456 on789 branch123 1010101010
-Third123 line only123 master addition 0 456on789 branc123h to be merged to master. asdasd
-master addition asdasd asdasdasdsadsadasdas rrrrr
-master addition 2 asdasd arrrrrr
+Third123 line only123 master addition 0 456on789 branc123h to be merged to master. asdasd ssssssssssssssssss
+master addition asdasd asdasdasdsadsadasdas rrrrr ssssssssss
+master addition 2 asdasd arrrrrr sssssssssss
